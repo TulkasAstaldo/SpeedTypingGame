@@ -7,6 +7,9 @@ A simple Speed Typing Game, using React.js and React Hooks.
 
 `cd SpeedTypingGame`
 
+###Install npm dependancies
+`npm install`
+
 In the project directory, you can run:
 
 ### `npm start`
